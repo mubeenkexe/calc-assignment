@@ -27,7 +27,6 @@ export const metadata: Metadata = {
     ],
     authors: [{ name: 'Mubeen K', url: 'https://github.com/mubeenkexe' }],
     creator: 'SmartCalc Team',
-    themeColor: '#0EA5E9', // Tailwind's sky-500
     openGraph: {
         title: 'SmartCalc — Time, Date & Math Tools',
         description:
