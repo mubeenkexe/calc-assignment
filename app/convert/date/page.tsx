@@ -46,7 +46,7 @@ export default function DateConversionPage() {
                         type="date"
                         value={baseDate}
                         onChange={(e) => setBaseDate(e.target.value)}
-                        className="border rounded-2xl border-red-500 px-4 py-2 text-lg"
+                        className="border rounded-2xl border-red-500 px-4 py-2 text-lg flex-1"
                     />
                 </div>
 
